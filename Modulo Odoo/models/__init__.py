@@ -1,0 +1,2 @@
+import res_partners
+import sale_order
